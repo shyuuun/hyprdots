@@ -3,3 +3,6 @@ if status is-interactive
 end
 
 set -gx PATH $PATH /usr/bin/flutter
+
+# disable fish greeting
+set -U fish_greeting
