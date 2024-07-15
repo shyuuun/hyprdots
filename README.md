@@ -1,5 +1,5 @@
+![](https://raw.githubusercontent.com/shyuuun/hyprdots/main/images/logo.png)
 
-# My hyprland dots
 
 This are my personal dotfiles for my current hyprland setup.
 
