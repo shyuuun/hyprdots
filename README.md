@@ -8,9 +8,9 @@ This config is a work in progress.
 
 ### Preview
 
-![[1_screenshot.png]]
-![[2_screenshot.png]]
-![[3_screenshot.png]]
+![](https://raw.githubusercontent.com/shyuuun/hyprdots/main/images/1_screenshot.png)
+![](https://raw.githubusercontent.com/shyuuun/hyprdots/main/images/2_screenshot.png)
+![](https://raw.githubusercontent.com/shyuuun/hyprdots/main/images/3_screenshot.png)
 
 ### TO:DO
 * Changes in bar
